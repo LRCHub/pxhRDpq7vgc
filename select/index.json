@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "mirrors demo (funk)",
+  "base_artist": "overtonight throwaways、overtonight、ovg!",
+  "createdAt": "2026-04-03T03:12:21.837285Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "mirrors demo (funk)",
+      "artist": "overtonight throwaways, overtonight, & ovg!",
+      "has_synced": true,
+      "path": "select/01_mirrors_demo_(funk)_overtonight_throwaways,_overtonight,_&_ovg!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "mirrors demo (funk)",
+      "artist": "overtonight throwaways, overtonight, ovg!",
+      "has_synced": true,
+      "path": "select/02_mirrors_demo_(funk)_overtonight_throwaways,_overtonight,_ovg!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "mirrors demo - funk",
+      "artist": "overtonight throwaways",
+      "has_synced": true,
+      "path": "select/03_mirrors_demo_-_funk_overtonight_throwaways.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "mirrors demo - funk (Paused)",
+      "artist": "overtonight throwaways",
+      "has_synced": true,
+      "path": "select/04_mirrors_demo_-_funk_(Paused)_overtonight_throwaways.lrc"
+    }
+  ]
+}
